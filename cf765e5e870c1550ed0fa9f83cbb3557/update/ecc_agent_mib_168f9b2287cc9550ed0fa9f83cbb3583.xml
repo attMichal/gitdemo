@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-js-smi</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>168f9b2287cc9550ed0fa9f83cbb3583</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-js-smi</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_168f9b2287cc9550ed0fa9f83cbb3583</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:40</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-js-smi</file_name>
+        <hash>f20eae5efab245db14baae2f53c7ed4f2c902ae1c1e96a78ac3696834e301c91</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2318</size_bytes>
+        <size_compressed>748</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>223c1faa878c9550ed0fa9f83cbb356d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:40</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>168f9b2287cc9550ed0fa9f83cbb3583</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-js-smi" sys_id="223c1faa878c9550ed0fa9f83cbb356d">223c1faa878c9550ed0fa9f83cbb356d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>623c1faa878c9550ed0fa9f83cbb356d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>pZVbb9owFMefyac4j5tUKmBrtzHtoeUyBS0BkbTvwTkQt8GObIcWTfvuO3YuHWsnMbCUl2P7d/7n5nS7XrcLs1LwAhVMhEFVKK4RogIZX3MGgX87hMiokplSIcg1BIlINrhFYcAXa6m2ieFSWI79RrLYK77JDLxj72HQ6w26g16/f9E6CdE8SfWoL+g2u7RXbvIc3BUNCjWqHabWbrfiDIFJkiVok3ybjGtIJSud+4QE6XL1gMyAkcCyRGwQnrjJZGlASMMZOpI3uwv9xWTZnUXdKPBhPJn6oR/78zCC4fAb3E6++6Hn+cFivowjr9N5EM8zHfDVUkoDnc50OQ+gYRDgq0erDji2kihLsOY5QpKmmJJMJPcpaidLYWLQ2ZocRMhKxc3eAYxCCqPNcClSOmFPyyoyCxqCUzR3Fu2y5gvYoECV5BfudKFwzZ+rc0CSSm2FSBDJFv/E8ZRSR6VFpS0mEe4UaeUbUevcXgKtlwCxoraqrSLrorpUuSmU3BEaElipRLAMqDOcW13fsiiFOblIXbpSkits52jQTbMRx6Upsri0tKHWOup+mP8dQ53wRLuLq0STLOu5PrHnYgOStpSFupK45HmHAb1e89vZZBSDP56EsT/1J0vXJz/hoDH68MtrlAl8NpDjDvM3El0X9cDpiwx//YaAI2S08q0OZ7kpTXYWadCQRqisdkbl0ieRPjSkhcw5468ox5M+NiR/Qbb7QpxMurL1orQvcSt39ZjSiyNLxap5Bc0FcyOgXIML2RZzW+TuzavepqorHX1ZA94I8DhV11aVM4U38XmN8KlJVUSPDgrb/CeSPjekccaKszR9aUlCu6k5mdTvtZ2QFmei2pGJFneBFNxIRdk6hB6JamfmLg7OVNUOzShLND1lo7zU9Es+BVVPzb3k/yrf0airdpQT9ogm4EpJdRrqukL90PvWuFDS/Tn/F9X2+jSXT+cFaJt9Eo6931mtO70OCQAA</data>
+        <length>984</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-js-smi" sys_id="223c1faa878c9550ed0fa9f83cbb356d">223c1faa878c9550ed0fa9f83cbb356d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>e23c1faa878c9550ed0fa9f83cbb356d</sys_id>
+    </sys_attachment_doc>
+</record_update>

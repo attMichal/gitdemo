@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-cfgmgmt</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>998f1b2287cc9550ed0fa9f83cbb3587</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-cfgmgmt</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_998f1b2287cc9550ed0fa9f83cbb3587</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:36</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-cfgmgmt</file_name>
+        <hash>11f43d32e550f57ac8d24148776622819cc5cfe156b281050ccbf9b34bd1b8cd</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>9086</size_bytes>
+        <size_compressed>2150</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>8a3cdbaa878c9550ed0fa9f83cbb3567</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:36</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>998f1b2287cc9550ed0fa9f83cbb3587</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-cfgmgmt" sys_id="8a3cdbaa878c9550ed0fa9f83cbb3567">8a3cdbaa878c9550ed0fa9f83cbb3567</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>ca3cdbaa878c9550ed0fa9f83cbb3567</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>1Vlbc9rIEn6GX9HlJ6cKXFycm7dO1SEgu5QywmuJTbJvsjTAZGFESSMMSe1/357RXRoJHNt76lCbLJF6evr69TdDt9vuduFzyOiW+KAxTvytTwMC5pY4dEEdmOqfrmDssQVdhr7NqcdgajN7STaEcfEWtD0nLMAXQpX4M/a2B58uVxzOnTcw6PUGXfxr2BFf33XS3QzCHz3/r6ADOnMuxMLReg1yYQA+CYi/I654Ll5ZKwKOh/YxfOktgK9oAK7nhNIM2ycQhA/ficOBe+CsbLYk8Ej5ygs5MI9Th0hN7c9zQ7/T7rvj65vpzdTqCgcm2rVu6JY+M0y4uvoPfNJudKPd1qd3s3vLbAN+prPJ/Fbr6hPNsHTrWwdmnz5rY6trfbvThP2cLIk/HHTAohtiUUd4Zcws/Vofj4RiKSg1ic/1/WwKpjG92w265lSXzyc02K7tg8l9ypYdmNicjJgr1KFS7as1H912xzPjD2HAzEhVFZVZY/niO9tP6QOagF/GGwPdx0zK3AVFG5JooBG/tdtCerGcLje87K9cdTsyre78bjKytAmciYz2e4PLHn7+PANM0RfiguHtoP8Rer0r+Z/I+BDmsVmz+5uRof8pAwJn6jI4k5LoqDXC8OrG9SznKsBZ8iVZbRFnxdC5NYyCgAbcZg6BMRGFXFgI5YWl6lPK9vvDIb5m3i4q/C/2QS1ohowddvYaczUewcfL3oePakGtu7Hp+gqLdbv1fP7f75E1F4zws3ZUB5o5vtfvSklGzy1R8aJcN54brgm4ZEEZwWaQZR9AGGD8F54PG9GeWETYIwQKOpxCG2MXJcHY+qgTlcThv9f+0E2RpGhnmep+/2OU6kYrhfjIddGSexI4IalFjoadsqI6cavPosrHi/FqaXqhj/mv9kvtdoPe237v1O10RjnFUvPJjgrAi7UKzPiZNB30P8Df7XYCW2TPQ1yBYdih17IDBUpWTBY6GtrctEbW3EzSGPq+QL30bc5mYaUrdlpQrA1RAUG0AWY7Sj+QXRZ/qfsbNtvX+B+6YWk32j38VNev+Hio1Y+/n/ffdOolnTVNv58PmiSxD7zA8emWo+SwSTI4MGfle4z+IHB+2SjJNtt097dNkg8h51idkeS7Jkk75B5lCDM4qc7fN0mG7C/mPUZKzz+8UQtiochKiJoFwdfkiPu/Ugwn1oJUL8cnESNWdGgBFJ5RFsxjZC8RmB8pi3DrohluFJpBbWjUi+PGKuLKOBr4GbzIWf89arIldlk8ryEaaNc6upJ2bTLz+iIduTW3aGTAdeaSfX7cqwKUEgD0/OJi0L98f/lh+O7yfebbdPS1OxqPNdPEuNtu12PrgyqhDemsBORMkCIq7aMMcpZrosMt+wGnhBgIItlr6Uwx2RWFMW8qA0QWqSSa6lAJslKIVCsXopQYtVvKWLQUQWjlvW+1pL84ZUNZwsEhmG/llo8rwqSTxfn2aAfodsChxk/klpU3etQam4zhIq3EnTjZSH2CliLdXCC9iMMaoJmt4saR+k7EUaPxjFxUcFvCQ59BD2PbqgZ1oAyqIIK1Qc2xxGeGVXQk2MwFfkpEkwAq/Rgq/Yjn3JFGqszF12+gbD5WHT7eCZcKoKo6P8fDzDHXCweARrcBXsRxZm9St9feEvMpYARppH8B8ry1JmzJV4BF/IP4HtBFRQ+erMDeIaOVWINQIx9st2tk5PikMXJvS2UytfcSt/AQ6ot5VVfzOaztFbH2eR2wsfd0E26AhZsHzBYGhsSW8JWNJW8zeCCwImsRJlykxFt1R7wTrmbn2IW39h4lQZdhQ/K9oy7uYwMCBvf8Q5KVjYe95hNH4FARuVFTHqyDOGM52+VjEOqivAp90X6YT5rQAldoejhAfR5Q85cEDaqhIXuHEFdy2noVHSC2swJGHuW6QwSG2zBYSa3e2hWjSb4SisSRPQ6ANPiiPMxz462uSEzt97lmjDWYXSeYkq7U5Eb5YsGq7dqOQ/AEiUpPqphRHMyUVhcgA2GfRfDvozfYUMqyeF/qgMy6Wr9exRedIUvYRObbDyL8tsophU+6MdG+tn5WuEdEmv5WOJ3LXT+lvxX3cVm7kMaf7Uq/yT3Q/OzypSoTDcZWdilTFREjFEXy9y1VoWgYoVh5PilkBdYLhYX7nKrYrbcsS0mXFSVRpaA1eNivx8NfKAsrR19odo6wIUjuBlW0pzIjohmKk8xDGzx5V4MjjDIHIToQKCgZXRCBAiKsjSYuGSJTWRHClDzDiGNdxsq4F6FLVKJIUCgWqoM+CeSK6FxFU0kFjXmdYGz4/5hSl8ySEhVNuN8jWa+V/Z2r5zJfTovzf0qX46525Ho1mcv5UKanaff8C+w0TlQNSX2aH2V6mmvwY7Cbo6XP9OcEztnoxKXKiQrLbNXSy+eZ/wvMsdU6zhUbPS7TxQREX45WvwipxnA0pVUVnooiuigS6yYanYtQjmUWb0eSq9j6S5L4/um0e5IMCNJlFShTJCJDtFdPQhPoqW69xMG2oqlw0H2hm4KykqffGygKIUtev5qZCkArMpPH6VfPTQ2G16WlJm7p/UNjPBSV+mvXEP/2LYQyGg2XEZnLw6rLL3z58H9995AF6lJRG/yEZlHc179+dSS/+Dzl/l7p9du6GZH7Tb/4e3E6IwqP73yyoHvcpWleFJdArzjB5TCq/Y080muqDo/yiFYOU0VMgFqnevVbkUvPca3KK9E4yheCdqTXfkleS0kt0aZ8KEQCyyfs3BxJTjK4zCeO57tRc5xy36TKUXUoPCnyhRlfF/fCuDkqlIT8iFgU/mO6ZEc8JRllfZXU5H4uUeJwzTRSt54qI3Isacak/Q92G0PmfiMAAA==</data>
+        <length>2856</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-cfgmgmt" sys_id="8a3cdbaa878c9550ed0fa9f83cbb3567">8a3cdbaa878c9550ed0fa9f83cbb3567</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>4e3cdbaa878c9550ed0fa9f83cbb3567</sys_id>
+    </sys_attachment_doc>
+</record_update>

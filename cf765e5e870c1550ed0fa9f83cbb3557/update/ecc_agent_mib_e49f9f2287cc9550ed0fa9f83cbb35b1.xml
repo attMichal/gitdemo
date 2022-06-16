@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-wwand-wireless-wan</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e49f9f2287cc9550ed0fa9f83cbb35b1</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-wwand-wireless-wan</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_e49f9f2287cc9550ed0fa9f83cbb35b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:49</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-wwand-wireless-wan</file_name>
+        <hash>4c29c8055389c6c28303ddc0b8a5eca574453d3c5f47a2623363b22465a72c3a</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>27308</size_bytes>
+        <size_compressed>2626</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:16</sys_created_on>
+        <sys_id>ef3c9faa878c9550ed0fa9f83cbb355a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:49</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>e49f9f2287cc9550ed0fa9f83cbb35b1</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-wwand-wireless-wan" sys_id="ef3c9faa878c9550ed0fa9f83cbb355a">ef3c9faa878c9550ed0fa9f83cbb355a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:16</sys_created_on>
+        <sys_id>233c9faa878c9550ed0fa9f83cbb355b</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3488</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-wwand-wireless-wan" sys_id="ef3c9faa878c9550ed0fa9f83cbb355a">ef3c9faa878c9550ed0fa9f83cbb355a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:16</sys_created_on>
+        <sys_id>a33c9faa878c9550ed0fa9f83cbb355b</sys_id>
+    </sys_attachment_doc>
+</record_update>

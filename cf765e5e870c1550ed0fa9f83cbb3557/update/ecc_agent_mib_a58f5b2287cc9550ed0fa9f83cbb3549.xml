@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-ex-smi</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a58f5b2287cc9550ed0fa9f83cbb3549</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-ex-smi</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_a58f5b2287cc9550ed0fa9f83cbb3549</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:37</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-ex-smi</file_name>
+        <hash>f2fb4576bd65f1ced716f7f2b2a35ba04add2025f634a4253946d902309ec006</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1438</size_bytes>
+        <size_compressed>603</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>163cdbaa878c9550ed0fa9f83cbb35a8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:37</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>a58f5b2287cc9550ed0fa9f83cbb3549</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-ex-smi" sys_id="163cdbaa878c9550ed0fa9f83cbb35a8">163cdbaa878c9550ed0fa9f83cbb35a8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>563cdbaa878c9550ed0fa9f83cbb35a8</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>nZRLj9owEIDv+RVzbCWy2tKXStUDj1AZKQERWu3VOAPxNtjIdljoqv+9Y4dQlrbSLj5wsMfffJ4ZEsdRHMOkVnKLBhLl0GyNtAj5FoVcSQEpG/Qgd6YWrjYIegUpV3yNG1QOmFpps+FOakUcjxrq7cHIdenglXgN3dvbbkw/nzqnHBm6B21+2A5dFjf+Sr+qIFyxYNCi2WFxc6QtSgShyUrRIaV2pbRQaFGH7Jx8bL28R+HAaRAlV2uEB+lKXTtQ2kmBgRRNvmVslszj5C7OUwajZMwytmDTLIde7wsMkq8siyKWzqbzRR7BxbpX+2SfyuVca3e+P55PU2jRxP0c0WrFSZRKBytZIfCiwILkkaQKtEHWIHcY9trK5ChqI93B33cG6W2nqteqoAAfrJvnek6vEZuGHRtKyRSsUaHhVSdEbw2u5L6JAzKqrffQoPgGz3GyoHpSu9FYj+EqRJGqXKuj5ua8Jw3QS3hqE9eQt0bviAYcloYrUQINSMiUU19EKdXaMwxWhC1ChQpSVH6CLNh26Ajk7yR3nlfUx+e1xZ1eSh8LzG24teSWpHzeY8SBsoKmI+OJoQUBF15x8rrsOq3pYJIMF8BGSbZgY5bMw7Q8Ph2IN/Dr1HaFewcV7rD6R2WPXXya9eTRV7w6/KTzl3r8eYA3abb8JGFfCLR2po27gtVtWTOOyZ7+gJY6dKXX25b1XRpX82pYcutbdA3r3YlV8b98Xsh637Dms/x/oOezPjSslItM+36L8FG8+GI8k/WRWEk2iqLf3Unim54FAAA=</data>
+        <length>792</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-ex-smi" sys_id="163cdbaa878c9550ed0fa9f83cbb35a8">163cdbaa878c9550ed0fa9f83cbb35a8</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>d63cdbaa878c9550ed0fa9f83cbb35a8</sys_id>
+    </sys_attachment_doc>
+</record_update>

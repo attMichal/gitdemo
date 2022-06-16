@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-tunnel-stats</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9c9f9f2287cc9550ed0fa9f83cbb352d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-tunnel-stats</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_9c9f9f2287cc9550ed0fa9f83cbb352d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:48</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-tunnel-stats</file_name>
+        <hash>df970c88f60d55ada517b8acf72b9ec99f3ca454aab2c3d49239e8fee8676323</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3455</size_bytes>
+        <size_compressed>1073</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:16</sys_created_on>
+        <sys_id>1b3c9faa878c9550ed0fa9f83cbb3502</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:48</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>9c9f9f2287cc9550ed0fa9f83cbb352d</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-tunnel-stats" sys_id="1b3c9faa878c9550ed0fa9f83cbb3502">1b3c9faa878c9550ed0fa9f83cbb3502</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:16</sys_created_on>
+        <sys_id>5b3c9faa878c9550ed0fa9f83cbb3502</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>zVZRb9s2EH6efsXBL2sHK4gdN1s9DJgi0wHTWNYsuUv6ptCMrUQhDZFyZhT77ztSsWI5shekfSgRIIZ4d7zvu++OdFwXfvn25WCYi0KkS55DXAjBM4h0olOlU6ZgRM+O0MIY+XK5ztP5QsM79h66x51f25VjwPWjzO9VG6hgxgG8LANrrSDniucrPtsEihccmBSaC9yUt6AXqYKZZMUDfoEk56CKmzvONGgJbJGIOYfHVC9koUFITIvbE74HdudiGtCQTNx4GgTk0o1iL45cBA0DMqQBjek4iKDf/wPOyDkNHIeOwvEkjhzARRHCnOcn3TaMzy6IH7vxdUjaYDdH48H0krh0QIKYxtf2m1nDyXgEUTAKV103GlH7/U78UzJviFej9GYipa57bPJEl98dcHY8MN+m8y69KHan4cCLyQBapmLH3W6n8+G4+6UFphAFhyG/gW4HOh/6x91+79TWFaaxbwOMJ+deQL94hgZoNRe7ZS39cRB7yAANhuMqc7Namx+VxjhbiJQlGXhKocoSwTj4WHme1xxh13FHY422nc7JCW4LuUIFSwF/J+tmwwjZW6+SjLfB9+Bj7/i3j82GxH1I0qyPklwuZa7/vCuzORJctxzrMiCRP6Gh4aiOPDa6xr9dAD9D+rDMuFF7mSX2gMW/zFPFnZ+st1pylt6mzHQg3MocdNmbqurNJ+aNOL82Swg68K+zo5Wx7SxlzyhVC6VmhpRMmoNhAjaQ65Zf1VYSECc3Gd85w37b7gmbaHSNErkq2Sd/TUngExgP4dmvjEiEzsuijbwr1/N9EkWm7d2EMY6KMcfZGNiq08iGY0WeI4F7q9EqE9picWvCKS1zPoNknqRCaeAJW2ys9HrJD7C8odKSY4zq2xbICxZ2mDgAf4eCJg52eKgRcVCaNFz1QK5QlPjrdIN3xjVqXUEfatYVLF8WOKD7UP43k/tJDyzniUYSUwETnNKpmEOYSy2ZzGCQ8Acpjg5EpOITz835b4oMiZhhd1pibossW4My1wheHfc26uGTw1vedCweFw5xlD8uUpSDuZKm4ZMSzKLBgFxt6yFGpaAKNvtNaik1aLRSsttYeOtZdcdX50Xa9qD6okFMzsmk/dK4hFU3ru6sPeZVMV5rbhh8Ed1ab5DWk29oiK1+eAKzBX17rXpydfqu8978xvuLhp8rFX/eqFg1eFaVOTxSYO9Ugf29BHbSc5zgLFmqIitH+gPH98oMCoXavVnjE4c/pfesoiaRlCJ4OVDKSv4PdTXy62Cxi2auFNn67ThbsdR4abM39P4rIHebIVdq/CGhP0+HQ/PnFehP9qE3zfWDQzejMmH3XMNQ5o9JPjMKIGKeCtw74kfbD5fCvoe2R+l+Tnrlk+Nbn/kmBJBgYJIfptjo3yGkg/Gc/wA9Haxjfw0AAA==</data>
+        <length>1420</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-tunnel-stats" sys_id="1b3c9faa878c9550ed0fa9f83cbb3502">1b3c9faa878c9550ed0fa9f83cbb3502</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:16</sys_created_on>
+        <sys_id>db3c9faa878c9550ed0fa9f83cbb3502</sys_id>
+    </sys_attachment_doc>
+</record_update>

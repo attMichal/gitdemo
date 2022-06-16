@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-mobile-gateway-sm-ip-pool</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f8f1f2287cc9550ed0fa9f83cbb3560</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-mobile-gateway-sm-ip-pool</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_9f8f1f2287cc9550ed0fa9f83cbb3560</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:44</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-mobile-gateway-sm-ip-pool</file_name>
+        <hash>68614da1b244519b2fc5281fa63c40beca6d462db440b0d3336f8d165b952224</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>21959</size_bytes>
+        <size_compressed>2908</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:14</sys_created_on>
+        <sys_id>f23c5faa878c9550ed0fa9f83cbb3534</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:44</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>9f8f1f2287cc9550ed0fa9f83cbb3560</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-mobile-gateway-sm-ip-pool" sys_id="f23c5faa878c9550ed0fa9f83cbb3534">f23c5faa878c9550ed0fa9f83cbb3534</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:14</sys_created_on>
+        <sys_id>363c5faa878c9550ed0fa9f83cbb3534</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3864</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-mobile-gateway-sm-ip-pool" sys_id="f23c5faa878c9550ed0fa9f83cbb3534">f23c5faa878c9550ed0fa9f83cbb3534</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:14</sys_created_on>
+        <sys_id>b63c5faa878c9550ed0fa9f83cbb3534</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-js-dns</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>028f9b2287cc9550ed0fa9f83cbb3542</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-js-dns</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_028f9b2287cc9550ed0fa9f83cbb3542</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:39</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-js-dns</file_name>
+        <hash>927dbb2647c6fd860e6e6031320cda8599c5c732abf894ecd30df93e8bf466ab</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2846</size_bytes>
+        <size_compressed>961</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>2a3c1faa878c9550ed0fa9f83cbb3549</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:39</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>028f9b2287cc9550ed0fa9f83cbb3542</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-js-dns" sys_id="2a3c1faa878c9550ed0fa9f83cbb3549">2a3c1faa878c9550ed0fa9f83cbb3549</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>6a3c1faa878c9550ed0fa9f83cbb3549</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>zVZdb+I4FH0uv+KKpxmJVIXSdofRSpuSMAoaAkuCZjpvxjHE3WCztgODRvvf99ohtJSuxD61eYhIfD/OOT6+wfMangfDUvA1UxAKw9Racc1ArxnlC05hFN33IIgT+wNjbXhfrneKL3MDH+hH6Fxd3Xp4u2sd6sTMbKX6S7cgEvTSpvhFAS5Fg2KaqQ3LLvfV0pwBldhZ4KJcgMm5hkzScoVvgCjEUs4fGTVgJNCciCWDLTe5LA0IaThlrtJwFkeTcOoNEw/ReogWgnAQxVEajRF9r/c73IdforjRiEaT8TRNGoDXaBzMvoZeFIRxGqUPLRjfD8N+6qUPk7AFLqQvSyvLbdc92WswHY8giUeTTcdLRpF7/yh+DnUg9FRKcxz4DBgGf2406tCXzV3aVz9Jvdkk8NMwgKaV9arb7rY73ZsfTUC1EmLAXytod6Hd6XVveu1ruwN3MEv7rsB4+sWPox++pQ3N13ekWREbx6mPXKN4MD5Atlez/lFnp4zmglNSgK8114YIyqDPrCyNi4uj0Bdbv19tt6+v8YWQG2K4FPCN7OqlpBRityEFa0Hfh0/dq98+1UuhtyK86OH+r9dSmT8eqx6XgplmwyEOwqQ/jSaW6zGD1JrIemCt5IZnTKPFioIYlgHCN8iBUw0LqdBuDLDhRSCxmYCYrBgkO23YCj6gkT7aCj93Lh09iPlygzQJ+tlmcavBglBsgLS2Oac5cAPc9hMLviwVZqBvneUr2a0Tfx35Bdrwz5MtJrZfQAwZO9frvSWhsskgCqcvSkD7kB0nLvvPkinO9JRRxvGkPTe1g5A84M5/r8U6NvjI/+75/X6YJPZJMZJ5UhS7Ki/101lS59FSKfTAf25E0xV2R1oa9I4oV3OUDp/tOPm7wogd9iDnu3ov7LLjcfmaYif6nKo3ZXothWY6sSPkrdk/Z0uE3jLrCW2R7Sk/8QXnWy5oUVrP7rWghGJUzo3Nz2DFNVLDTBwFttih6HlydU7k2ttlINWWqOwd+OW5YosDKjxGEuVSbtkdKFUJhjKhak/2qlOdQjnZMJgzJtxB5lgnK5n7lDhVMdfqeZ501yfSxWyJ02TDDo57c+1qRAcRd/aLW4Gr/aWd7WidsrfZkWw2YLKffGWR2S8tyLmxI7Kym9uZ82TrvnJAjcIbdtTm7SWz5JVF9FICFKqa/vWQOo/vzQnfCRMZF8t3xngPZsfcX6v5/x0ktyc0E3coB/jRxu/e+2BZebiGdB6xO0ssjIPGvykJL6seCwAA</data>
+        <length>1268</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-js-dns" sys_id="2a3c1faa878c9550ed0fa9f83cbb3549">2a3c1faa878c9550ed0fa9f83cbb3549</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>ea3c1faa878c9550ed0fa9f83cbb3549</sys_id>
+    </sys_attachment_doc>
+</record_update>

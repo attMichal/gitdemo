@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-mobile-gateway-sgw-mfwd</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9f8f1f2287cc9550ed0fa9f83cbb3545</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-mobile-gateway-sgw-mfwd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_9f8f1f2287cc9550ed0fa9f83cbb3545</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:44</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-mobile-gateway-sgw-mfwd</file_name>
+        <hash>4b939e55717bdf7d383032832c4ca4fe33e7e02f7565e76169d7b945fb8c9ae8</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>3059</size_bytes>
+        <size_compressed>1096</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:14</sys_created_on>
+        <sys_id>723c5faa878c9550ed0fa9f83cbb3532</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:44</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>9f8f1f2287cc9550ed0fa9f83cbb3545</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-mobile-gateway-sgw-mfwd" sys_id="723c5faa878c9550ed0fa9f83cbb3532">723c5faa878c9550ed0fa9f83cbb3532</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:14</sys_created_on>
+        <sys_id>b23c5faa878c9550ed0fa9f83cbb3532</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>5VbbbuM2EH33Vwz8lBRSVnaybTbdLirLsqEgkgxLzu2NlmiLWZk0JCqqsei/d0j5lsROd4F9aoUgMEjODHnOmUOaJvzyE76WacJ1xdmSFuCLKcspDImkNVlBNLwDf3DXP1mPj0jylUoYiKImRcr4HMT0iSayBN/rnWEilcsRy1XB5pmEk+QUulanY+K/c2NbJKCyFsXX0gCPJyoK7DwHHVJCQUtaPNN0ky3OKCSCS8pxUsxAZqyEVCTVAkeAFBTKSu8BpIAkI3xOoWYyE5UELiRLqK7wU4BqXU8Cb+SOTT/seTeuObwzESFTIWQiANB3B17gxV4YRHB19Qf03KEXtFqePwrHcdQC/IIw9gaeY6tFZvwwcg3ww/4Ek3l9N4i9+MGAsHftOnEzq4McUSEAxa8XBkx4yeacpuddA1mq5vS8C4Nx6EMU+KPnrhn5ng6J3ft4Yt+YThjcqrxhYECflcucrCJZIHMGjEUdSSIr5KEJKSqZ3ZK8onDo268SOzrC5WSa07TJciRiC5nnR/FIwaRDn/hfjabWUovm9fHQ3nB7LhU3nQ/rgCwObfNl3JolO3bv7Ifo91aricZa/qxOfTZ9jb0ucWNHsTkZ9TGsD22lX+vSuuh0LeuxDUqs1RwspELNGNDpXlkW/sFkDUo4HtqB96gZhvZhzbcbWsMgtpFoLxiErc0JthExTTLOEpKDXZaslIQnFByqhLBdfKyltvOdzvk5DnHxTCQTHO7IajcZVZyvnklODXBs+HRhXX7aTbrmgrD8CrtruRSF/POpqXTGqWx233cjZ+yN1DF3m49Vdy5EWqFZpHTGOC23FoHRkjCuXANbdWMtsCt5EmHnq+mN/Rx1nT6hC8FPodmJarVvBxX1G/z9ivQALWGGqCo0ynWnQUP/wHPHr/K90Ir1brJbUmAL/FDCzpuEGoCEjlii9b1nBDpP9ICCuW/AetHMCJ336MLJ5dlZ5+PpqV7s2/em7ThuFAGQJKEoImxWcyYKU/nirBFCFNvxJGpSJlVRoL4Ostswy1KcxyMjqxJ9uVRJBTeXLDGAcT2G+RewKE3yYfrBWjsL1BlFo/5MvgBbR+YCzZun8Hn6Be29ylOYUqDo2yhmC0QBnaZJDkD3BvW3OPaqmU8XN2zB5LsgwsZD9QzaRhxt1dhGvSZ43PYbNL8Xz6OIwquGYTxV51mjuq5L8CJT952QaAHTajZDZBYo+2KFUCnOq5KmrxvgOEjdIyDFGd64Y8JK+vZuavxM49cc6dsL/zV2rbv93pHzvy7fZw03+yPy3GHJ9w4O6q7cyJVIjW6Gz4wtjhpVbUgKhUygDHebRGYbh8qIepaQJKMprLNEI8+BnD7T/GwvQr1V5mvv4urEzTr1U4v9Rdm9mjXD9w/qf5cpbbobn0HfxfDxHtD0Ojklxf+D3lzU/0F2dfO6Qb/1D7k8JbvzCwAA</data>
+        <length>1448</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-mobile-gateway-sgw-mfwd" sys_id="723c5faa878c9550ed0fa9f83cbb3532">723c5faa878c9550ed0fa9f83cbb3532</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:14</sys_created_on>
+        <sys_id>363c5faa878c9550ed0fa9f83cbb3532</sys_id>
+    </sys_attachment_doc>
+</record_update>

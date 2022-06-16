@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-l2l3vpn-mcast</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>228f9b2287cc9550ed0fa9f83cbb35ef</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-l2l3vpn-mcast</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_228f9b2287cc9550ed0fa9f83cbb35ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:41</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-l2l3vpn-mcast</file_name>
+        <hash>66978e36c7d67d3a0c774014c40b790db9db543820be651addabbd1a2233c8de</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>7886</size_bytes>
+        <size_compressed>2461</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>663c1faa878c9550ed0fa9f83cbb358d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:41</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>228f9b2287cc9550ed0fa9f83cbb35ef</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-l2l3vpn-mcast" sys_id="663c1faa878c9550ed0fa9f83cbb358d">663c1faa878c9550ed0fa9f83cbb358d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>a63c1faa878c9550ed0fa9f83cbb358d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3268</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-l2l3vpn-mcast" sys_id="663c1faa878c9550ed0fa9f83cbb358d">663c1faa878c9550ed0fa9f83cbb358d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>2a3c1faa878c9550ed0fa9f83cbb358d</sys_id>
+    </sys_attachment_doc>
+</record_update>

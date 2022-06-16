@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-chassis-fwdd</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>298f1b2287cc9550ed0fa9f83cbb35bd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-chassis-fwdd</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_298f1b2287cc9550ed0fa9f83cbb35bd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:37</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-chassis-fwdd</file_name>
+        <hash>a4867648eec65b0171ef38679b02aa1dbf1091f937997de85c750942295ac0e6</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2222</size_bytes>
+        <size_compressed>849</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>9a3cdbaa878c9550ed0fa9f83cbb359d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:37</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>298f1b2287cc9550ed0fa9f83cbb35bd</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-chassis-fwdd" sys_id="9a3cdbaa878c9550ed0fa9f83cbb359d">9a3cdbaa878c9550ed0fa9f83cbb359d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>da3cdbaa878c9550ed0fa9f83cbb359d</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>vVVdb9pIFH22f8UVL20lXPGRRCmrldaxTeq0NggbtcnbYC4wqZmxZmwSutr/vncGSAnibbcZgWTP3K9z7rkez3M9D+4awStUEIkaVaW4RsgqLPiCF5DENwO48zJUHDUMv4UhvB9K9cTUnIslhAzXUnwwZiaS+Qey2iq+XNXwvvgAvU7nqv2SIcX6Saofug2xKD4aa78swVprUKhRbXBu9s1RvkIoJNUk6FAuoF5xDXNZNGvaAaYQdDN7xKKGWkKxYmKJ8MTrlWxqELLmBdpI7t00jcfRxAs++1kWZ54B4VHBEEbDOI3zeJRmMBj8CTfRbZy6bpyMR5M8c4FWMgqnXyMvDqM0j/P7Noxu7qIg9/L7cdSGW9Yssd8zaGpcour3rJNZw8kogSxNxpuelyWx3X8Uzwmf6dc2h+rI6A/XJZPh03x+mte6fPWz3JuOQz+PQmgZYju97lWve3n90ALLV6OoRTiD7hX0uoPL60GnYxsA0zywIUaTWz+NH3yDGVrnu9KylsEozX0CGqfD0UvBZrUODwfvHIuV4AUrwdea65qJAiFAo6VXjnDqeCKGs7bdbr9Px0JuWM2lgG9se94wa4TYbliJbQh8+HTRuf503jDy1oyXA9JOVUlV//W4q+ajwLrlWpcwyoJJPDYcvUaeGwHS7xTAO+DrqkQjy12VJFZ8mSXXsd76aKJgIdXJUK3lvCkRFkquSegIilRMKUjWhlSYyed9Y4xQ/z5ICfoX8I/r7gfGBhorWaDWRNpCWvnvJXXYp2p2GoaduIZxNPkV1Iqva2M6+9eEF0p+QSWwDMbTqWY0ZkdT4DrZPUnlu+Psp8F1Ev+75wdBlGWOQjb3pCi3ZJb7+TRznKJRithxnWOeHadlxt0isAlhlxEoJTQ1L/nPHbVcAFFfGKqXeCSaByQfvoBGsA31l82ITCKZC1ZVJamT3olA5xXQAyUW7wHupM5Xpmr9NmAnyMqar5GabrPSt6xmbwO7dwz7M7LqDeCaNL8dWP8YWLhmCa7fAFqY+ECZpNr+doAXxwCnVW70cxbbr3vJoWsmJxgtjXSnznXrv4/p7ovVVFa++FzR/a1xbgDvc/xPaC8N2igN3X8Bj5RCPa4IAAA=</data>
+        <length>1120</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-chassis-fwdd" sys_id="9a3cdbaa878c9550ed0fa9f83cbb359d">9a3cdbaa878c9550ed0fa9f83cbb359d</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>5e3cdbaa878c9550ed0fa9f83cbb359d</sys_id>
+    </sys_attachment_doc>
+</record_update>

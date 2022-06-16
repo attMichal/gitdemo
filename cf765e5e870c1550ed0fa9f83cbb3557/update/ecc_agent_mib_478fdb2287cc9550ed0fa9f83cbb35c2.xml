@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-mag</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>478fdb2287cc9550ed0fa9f83cbb35c2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-mag</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_478fdb2287cc9550ed0fa9f83cbb35c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:43</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-mag</file_name>
+        <hash>41a192640792f7d57d8776d2cce394567df495177ae251bb37d9ed55e1b2de58</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2627</size_bytes>
+        <size_compressed>879</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>663c5faa878c9550ed0fa9f83cbb350a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:43</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>478fdb2287cc9550ed0fa9f83cbb35c2</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-mag" sys_id="663c5faa878c9550ed0fa9f83cbb350a">663c5faa878c9550ed0fa9f83cbb350a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>a63c5faa878c9550ed0fa9f83cbb350a</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>zVXLcts2FN3rK+5olXZEh5K7aJzptDBJufCYpEaEHDs7moQlOhSgIUArnk7/vRegxYdjO4s4M8VCD+C+zsE9F44Dv/74GjkOnNei2PEKuNC82lWF4qB2PCtuiwxIlnGlgNR6g8dFlupCCpA3dzzTCkJ6eoQRTBBP7h6qYr3R8C77BWauO3Vm7tSdtNEjrvey+qImQEVmvICUJVgXBRVXvLrn+SEa23DIJNYj8FDegt4UCnKZ1VvcgbTCCmtbA2gJ2SYVaw77Qm9krUFIrJPbDG9B0Ahwna8iugiWTkjOHAQNfjCnEWU0jhI4OfkDToMzGllLGi7iJUvsb7M8WRtaj2eIe0fyHJFaCjRf293WMIoZnVOPmKAOu14EEwhjf3URONQPIkbZdWcbn54HHrNW7Z5Z82UcQhKFi/uZk4R01B6y4IqtyIXjxdGlCRZHE/ALtSvTh0RXhVi/GIZ5XZQ78TVM12Fxs5RSf+txIAkzfxw1Xq0HPAXTul+QhDmrhU9Y4AOMTdO4M/ycTd3P4w7x8oxE9LNlB62eb6rOHHEyggzRaB4PCm09Gc82Avu5BKJUoXQqMg6elcDA4aX+HdhMp8fHuC3kfaOPT+nD0CCphXi4T0s+AY/Ah9/c3z+MhhaBs02L8gT7ereTlf7rrkl7JPiQafibscXJ+/f7/f6oZzPuwvlB4i3pwjA1hI6iQmmb9j3oF511WggjooRnNcoqtXqfDFMW4rZKMYmVZCXLEulIRQ6fSGQd8H+D24gYtTf03sq8Lrn6s1fiMrikib1JW1h3527/zntAjJVX8SaLn2reWRn5/TNsTZjCv4MGjHAk3D4OL/WoHmg6cU6D5dMY4KJ/5x0/stWs73vb7Mb0xyfQIQx231cNp3gL2QYHXM6P3ipBD2eSxAeor4M8WHU0vx3SBIdRyfFrLRy860TjpSkc6OrNAA8Rm5eNyS9cEK35dqefna3JNY6Tq94wb09CcuUQzwuSBPARS3Osuey0nzDCVniC0qpwtLwq0XFUb29QWPjamZrAFgVpU5WCbZq/0PS9a3va93g0x6nC8xbl/wFeU1If5XeBzX5Cp+FbDjgY2rnwcxR1mZZFbhMEVSWrb5/50etkPsPluE9dFx+4SdBS2WdyOP9slwSRP/oPEuyli0MKAAA=</data>
+        <length>1160</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-mag" sys_id="663c5faa878c9550ed0fa9f83cbb350a">663c5faa878c9550ed0fa9f83cbb350a</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>2a3c5faa878c9550ed0fa9f83cbb350a</sys_id>
+    </sys_attachment_doc>
+</record_update>

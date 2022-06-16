@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-js-spu-monitoring</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a8f9b2287cc9550ed0fa9f83cbb358a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-js-spu-monitoring</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_1a8f9b2287cc9550ed0fa9f83cbb358a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:40</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-js-spu-monitoring</file_name>
+        <hash>d39157458e48c62d25f53bb52ffbd39047dec98a54790e17d5206ae44a29093f</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>14433</size_bytes>
+        <size_compressed>2146</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>623c1faa878c9550ed0fa9f83cbb356e</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:40</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>1a8f9b2287cc9550ed0fa9f83cbb358a</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-js-spu-monitoring" sys_id="623c1faa878c9550ed0fa9f83cbb356e">623c1faa878c9550ed0fa9f83cbb356e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>a23c1faa878c9550ed0fa9f83cbb356e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2848</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-js-spu-monitoring" sys_id="623c1faa878c9550ed0fa9f83cbb356e">623c1faa878c9550ed0fa9f83cbb356e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>263c1faa878c9550ed0fa9f83cbb356e</sys_id>
+    </sys_attachment_doc>
+</record_update>

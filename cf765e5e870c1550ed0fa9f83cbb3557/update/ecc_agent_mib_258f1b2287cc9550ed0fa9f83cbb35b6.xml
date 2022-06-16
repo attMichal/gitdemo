@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-chassis-alarm</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>258f1b2287cc9550ed0fa9f83cbb35b6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-chassis-alarm</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_258f1b2287cc9550ed0fa9f83cbb35b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:37</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-chassis-alarm</file_name>
+        <hash>e5064e7d5d87522393e04cca95511f287a88b838c4ff7d1d5b86159597e30c13</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>4249</size_bytes>
+        <size_compressed>1460</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>5a3cdbaa878c9550ed0fa9f83cbb359c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:37</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>258f1b2287cc9550ed0fa9f83cbb35b6</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-chassis-alarm" sys_id="5a3cdbaa878c9550ed0fa9f83cbb359c">5a3cdbaa878c9550ed0fa9f83cbb359c</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>9a3cdbaa878c9550ed0fa9f83cbb359c</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>1Vdhb9s2EP0s/YqDvywBrDa2063NMGCKrAQqYjuwFazpN1qiY7YyaYiUHaPof+8dJdmy43QZiqGbkBiJeEce3733SHue63nwvpBiyXMIpeH5Mheaw2TJEzETCQyiywvwM5Yv6E+Kpt9ALTe5eJgbOElOoXt21vHwo9feTjXkZq3yz7oNkUxeUYqfZWBTNORc83zFU3pPQ/GcQ6JwcYmDagZmLjSkKikW+AZYzkEX0088MWAUJHMmHzishZmrwoBURiTczuS+vxtGt+HY82/88cDDcqEfXkXDKI5GwwlcXPwBl+F1NHTdaHA7GscTF/AZjPp3N6EX9cNhHMX3bRhdvg+D2Ivvb8M2XLPigfe6NpKeq/FoAJPh4HbV9SaDyL6PxYJPDFssj0bFgX39ST4OxFTvh9QF40y/uy6GWKD1YU026cafxN7dbd+Pwz60CO2z3zpvu503vY8tQBCvcoHoZ9B5C93OxZvexfmv1Jge3FUVjMbX/jD66BMa0DreqJaNDEbD2EcIouHVaFswPa36jzo75slcioRl4GsttGEy4RBw4tFeIhwmHvDjaGyn0+vhsFQrZoSS8BfbHA+cFFJuVizjbQh8eHd+9vbd8cDQWzCRXSCdlkuVmz8/ldW8kty0XJvSDyfBOLoljPZ3HhMn8edwA7+AWCwzTkwtq0T+8q2OXMdm64aaYKZyYGWfZ7laINs55EhlnBS5TTDCVD1WrSDSfqnJA+fw1aUH270bqTjTga+O49gyR1GfSlVTrTJuUBxuJbQgZzNTqllbxVTMtO+rebDiUgFQ0u8qCsdPFuvaQqps+27MM7YZqJQ39eM6k3uk0gfHiYZxeI0TfXEdR+GO85POadvBkuw/gJAU8rNUa4njSwRhJE+6ZUAF1ZQL+QA0xFNQFJYUZjSbnfROn0ThCLZh5jqIiOsM/A+eHwThZOLknKWektkGC4v9+G5Cs+Q59st1mp13nBZ5kp0U3Qp3BgvamvUm9CoLo6Auz1jCbcmSZ7azU9wQbHiWqTUwmWJ2WhWHbXCcy2eH0QGLLMUd1OUDhk83wIglaIPlEqUTB4WhgNdwg66DItSGgk/8YPT6Jj6FaWGMkna9SNqKCTfcuN1F275p7m0t0JtxYYxniREoN6wKrZayEGsbX9WMO2zuaLsA1uxRSeUCz4OAGfVq9Ta3ImiUpGE9F8ncej+mSJUvWJZt6JSQeA6U5bEiFdMMDweBHdRU2kroAr0IM2YZ03PiQspXeD5olBPCsaVxk/CdJpfvbdEvkkJzDquHp1PgqWBeIIh9RZQwaJuKKt7pwkG0rCp2UaRyIjqOSVLC/ggmff0R/tcdbBRUseFAAVBLwHLuSaqtBTvKbXJut6XVwqbpjTZ8AWuWS2qXLqjrGtCn6T5gzxM09txQeylcPEhyUoaKwDx0YmYKmlEmuDnNqwJwgSPFbxWGKZJsZCsy2lOpHjjZSgxG+xqrhUUWVsLQVCYyv8j4Ac/26NQ5TpJAFTjJUZLUt48f6KEsFlMy2BlUUagiK3JulSmV9LTI6J6FGU3M9A5KVV6+6ACUKV9y/JCmNsM92DDjO8B9D5zuMyq8YdoE5ZXvKES7y9cPgIR3h8K6O7LxbklTbtm6xyOMR18x1R00BQ+4sOeX9TCiE9oS3QHIiuzBsOK5Zq/A+chzBWJWq5kiJF+VR76dSiODKcEa4QPhu0YZFMvvYdZrYjbm6T+2rV6DkXX+/9yztkcNcRV9oryTvdC1GsnPWVblV3TE4FWSrAdbuVRrbCXdKlFdjfe06C4Bp+CP6FiCy4S8jsGc5emazjg83WaFTMpi8605mjl+VZorNC1R3234Y8J5St+danXuin7e5UqLw4wXm1yFGe3z70xux7zOMUL+h/zt4DL2b5rbDpTuMVB+uq1tofj5nraDqjS0cNh3vwFXtQmLmRAAAA==</data>
+        <length>1936</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-chassis-alarm" sys_id="5a3cdbaa878c9550ed0fa9f83cbb359c">5a3cdbaa878c9550ed0fa9f83cbb359c</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:11</sys_created_on>
+        <sys_id>1e3cdbaa878c9550ed0fa9f83cbb359c</sys_id>
+    </sys_attachment_doc>
+</record_update>

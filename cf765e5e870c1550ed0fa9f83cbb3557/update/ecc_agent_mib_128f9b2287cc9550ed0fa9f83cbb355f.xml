@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-js-ipsec-vpn</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>128f9b2287cc9550ed0fa9f83cbb355f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-js-ipsec-vpn</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_128f9b2287cc9550ed0fa9f83cbb355f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:40</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-js-ipsec-vpn</file_name>
+        <hash>73bf36d294373faf87dc80ab98152893fc62d3c000458623588d318f2da905a7</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>6862</size_bytes>
+        <size_compressed>2164</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>aa3c1faa878c9550ed0fa9f83cbb3566</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:40</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>128f9b2287cc9550ed0fa9f83cbb355f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-js-ipsec-vpn" sys_id="aa3c1faa878c9550ed0fa9f83cbb3566">aa3c1faa878c9550ed0fa9f83cbb3566</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>ea3c1faa878c9550ed0fa9f83cbb3566</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2872</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-js-ipsec-vpn" sys_id="aa3c1faa878c9550ed0fa9f83cbb3566">aa3c1faa878c9550ed0fa9f83cbb3566</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:12</sys_created_on>
+        <sys_id>6e3c1faa878c9550ed0fa9f83cbb3566</sys_id>
+    </sys_attachment_doc>
+</record_update>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-lsys-sp-natstaticrule</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b28fdb2287cc9550ed0fa9f83cbb3583</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-lsys-sp-natstaticrule</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_b28fdb2287cc9550ed0fa9f83cbb3583</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:42</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-lsys-sp-natstaticrule</file_name>
+        <hash>995432938bab084905ba2a13ce834b8ca25fa0cc71797b1ffabb978423f0c19d</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>7513</size_bytes>
+        <size_compressed>1545</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>a23c1faa878c9550ed0fa9f83cbb35d1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:42</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>b28fdb2287cc9550ed0fa9f83cbb3583</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-lsys-sp-natstaticrule" sys_id="a23c1faa878c9550ed0fa9f83cbb35d1">a23c1faa878c9550ed0fa9f83cbb35d1</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>e23c1faa878c9550ed0fa9f83cbb35d1</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2048</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-lsys-sp-natstaticrule" sys_id="a23c1faa878c9550ed0fa9f83cbb35d1">a23c1faa878c9550ed0fa9f83cbb35d1</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:13</sys_created_on>
+        <sys_id>663c1faa878c9550ed0fa9f83cbb35d1</sys_id>
+    </sys_attachment_doc>
+</record_update>

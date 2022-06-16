@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="ecc_agent_mib">
+    <ecc_agent_mib action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>JUNOS</description>
+        <directory>false</directory>
+        <name>mib-jnx-atm-cos</name>
+        <parent/>
+        <source>https://apps.juniper.net/mib-explorer/download.jsp#product=Junos%20OS</source>
+        <sys_class_name>ecc_agent_mib</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:35:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dd8f1b2287cc9550ed0fa9f83cbb3556</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mib-jnx-atm-cos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
+        <sys_update_name>ecc_agent_mib_dd8f1b2287cc9550ed0fa9f83cbb3556</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:36</sys_updated_on>
+        <version>20.2R3.9</version>
+    </ecc_agent_mib>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>text/plain</content_type>
+        <file_name>mib-jnx-atm-cos</file_name>
+        <hash>1ce48a720017e24796f4e36084fcd96a9717ccc1b3ee329fab665bd66c4c962f</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>23558</size_bytes>
+        <size_compressed>3667</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:10</sys_created_on>
+        <sys_id>463cdbaa878c9550ed0fa9f83cbb3562</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 02:35:36</sys_updated_on>
+        <table_name>ecc_agent_mib</table_name>
+        <table_sys_id>dd8f1b2287cc9550ed0fa9f83cbb3556</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="mib-jnx-atm-cos" sys_id="463cdbaa878c9550ed0fa9f83cbb3562">463cdbaa878c9550ed0fa9f83cbb3562</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:10</sys_created_on>
+        <sys_id>863cdbaa878c9550ed0fa9f83cbb3562</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4876</length>
+        <position>1</position>
+        <sys_attachment display_value="mib-jnx-atm-cos" sys_id="463cdbaa878c9550ed0fa9f83cbb3562">463cdbaa878c9550ed0fa9f83cbb3562</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 02:21:10</sys_created_on>
+        <sys_id>0a3cdbaa878c9550ed0fa9f83cbb3562</sys_id>
+    </sys_attachment_doc>
+</record_update>
