@@ -17,8 +17,8 @@
         <location/>
         <log_state_changes>false</log_state_changes>
         <max_run/>
-        <mid_cluster/>
-        <mid_select_method>specific_mid</mid_select_method>
+        <mid_cluster display_value="test cluster">56dfab0c87d49190f5c140cf8bbb3577</mid_cluster>
+        <mid_select_method>specific_cluster</mid_select_method>
         <mid_server display_value="servicenow-poc-midserver">5025af8487b74110f5c140cf8bbb3518</mid_server>
         <name>test- VM schedule</name>
         <offset/>
@@ -28,10 +28,10 @@
         <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
         <run_as_tz/>
         <run_dayofmonth>1</run_dayofmonth>
-        <run_dayofweek/>
+        <run_dayofweek>1</run_dayofweek>
         <run_period/>
         <run_start>2022-06-20 19:17:18</run_start>
-        <run_time/>
+        <run_time>1970-01-01 08:00:00</run_time>
         <run_type>on_demand</run_type>
         <script><![CDATA[var rt = new global.DiscoveryScheduleRunType(current.disco_run_type + ''); if (rt.match() || new global.DiscoveryJob(job).isRunOnce()) { var dd = new global.Discovery(); dd.discoveryStartJob(); }]]></script>
         <service_attributes/>
@@ -46,14 +46,14 @@
         <sys_created_on>2022-06-20 19:17:18</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>612b2f4087d49190f5c140cf8bbb3575</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>test- VM schedule</sys_name>
         <sys_package display_value="itomscoped" source="x_544630_itomscope">cf765e5e870c1550ed0fa9f83cbb3557</sys_package>
         <sys_policy/>
         <sys_scope display_value="itomscoped">cf765e5e870c1550ed0fa9f83cbb3557</sys_scope>
         <sys_update_name>discovery_schedule_612b2f4087d49190f5c140cf8bbb3575</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-20 19:17:18</sys_updated_on>
+        <sys_updated_on>2022-06-20 19:39:08</sys_updated_on>
         <time_zone/>
         <upgrade_safe>false</upgrade_safe>
         <use_snmp_version>v1_v2c</use_snmp_version>
